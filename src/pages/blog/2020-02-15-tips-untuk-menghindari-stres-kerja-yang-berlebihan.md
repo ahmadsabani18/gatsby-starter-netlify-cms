@@ -10,8 +10,6 @@ featuredimage: /img/stres-kerja.jpg
 tags:
   - menghindari stres kerja
 ---
-
-
 Aktivitas di tempat kerja sering membuat kamu merasa jenuh bahkan kerjaan yang menumpuk menimbulkan stres. Kamu tidak bersemangat bekerja dan merasa tidak nyaman berada di tempat kerja. Berikut ini **tips untuk menghindari stres kerja** yang berlebihan. 
 
 1. **Analisa Penyebab** 
@@ -28,7 +26,6 @@ Aktivitas di tempat kerja sering membuat kamu merasa jenuh bahkan kerjaan yang m
 
    Stres kerja bisa terjadi ketika kamu merasa tidak nyaman dengan lingkungan dan suasananya. Maka cara menghindarinya dengan menciptakan rasa nyaman sadar berada di tempat kerja. Caranya bisa dengan mencoba akrab dengan rekan kerja di kantor. 
 
-
    Temukan rekan yang cocok untuk membuat kamu merasa nyaman dan bisa berbagi masalah yang ada selama di tempat kerja. Menemukan titik nyaman bisa dilakukan dengan mengalihkan pikitan. Kamu perlu ruang untuk membebaskan pikiran memikirkan apapun dengan santai sambil minum secangkir kopi. 
 
 
@@ -40,6 +37,5 @@ Aktivitas di tempat kerja sering membuat kamu merasa jenuh bahkan kerjaan yang m
 5. **Meditasi** 
 
    Kamu juga bisa **menghindari stres di tempat kerja** dengan melakukan meditasi. Manfaatnya bisa membuat pikiran menjadi lebih positif  dan membuat kamu merasa lebih tenang. Cara melakukan meditasi dengan memfokuskan perhatian dan menenangkan pikiran. 
-
 
    Tips **menghindari stres kerja** bisa kamu lakukan dengan mudah agar merasa lebih tenang. Jika kamu merasakan kenyamanan selama di tempat kerja maka akan lebih semangat dan produktif. Suasana di tempat kerja pun akan terasa menyenangkan tanpa ada rasa jenuh.
