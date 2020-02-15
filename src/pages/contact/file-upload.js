@@ -51,7 +51,7 @@ export default class Contact extends React.Component {
                 name="file-upload"
                 method="post"
                 action="/contact/thanks/"
-                data-netlify="false"
+                data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
               >
