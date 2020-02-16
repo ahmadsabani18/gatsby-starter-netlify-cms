@@ -8,9 +8,18 @@ description: >-
 featuredpost: true
 featuredimage: /img/stres-kerja.jpg
 tags:
-  - menghindari stres kerja
+  - strategi mengatasi stres kerja
+  - cara mengatasi stres kerja menurut para ahli
+  - stres tekanan pekerjaan
+  - cara mengatasi stres kerja menurut mangkunegara
+  - >-
+    bagaimana perusahaan anda mengatasi karyawan yang sedang stress karena
+    pekerjaan
+  - cara menghilangkan penat kerja
+  - cara mengatasi stres pikiran
+  - dampak stres kerja
 ---
-Kamu tidak bersemangat bekerja dan merasa tidak nyaman berada di tempat kerja. Berikut ini tips untuk menghindari stres kerja yang berlebihan. 
+Kamu tidak bersemangat bekerja dan merasa tidak nyaman berada di tempat kerja. Berikut ini tips untuk **menghindari stres kerja** yang berlebihan. 
 
 * Analisa Penyebab
 
