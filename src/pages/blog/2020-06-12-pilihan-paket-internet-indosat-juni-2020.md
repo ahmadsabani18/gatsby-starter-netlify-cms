@@ -20,6 +20,8 @@ tags:
 ---
 Hai, selamat datang di tulisan terbaru dari Taktik Blog. Di artikel kali ini kita akan membahas tentang **[paket internet Indosat](https://www.blibli.com/digital/p/paket-data/indosat)**. Provider dengan warna dominan kuning dan merah ini memiliki banyak paket internet yang ditawarkan untun penggunanya, kamu tinggal pilih yang sesuai dengan kebutuhan kamu.
 
+![paket-internet-indosat](/img/paket-internet-indosat.webp "Paket Internet Indosat")
+
 ### Paket Apps di rumah aja
 
 Diluncurkan Mei 2020, paket baru dari Indosat ini ditujukan untuk keperluan bekerja dan hiburan dari rumah. Aplikasi yang didukung antara lain aplikasi untuk rapat atau pertemuan (Microsoft Teams, Skype, Webex), streaming (Viu, Vidio), dan game (CoD Mobile, AOV, Free Fire). Saat menggunakan aplikasi tersebut, maka akan memotong kuota “Apps di rumah aja”. Kalau kuota itu habis, baru beralih ke kuota utama.
